@@ -1,0 +1,11 @@
+# --- Core ---
+# Requires an OpenAI key (retrieval embeddings); Anthropic key optional (Claude answers).
+openai>=1.30            # embeddings (text-embedding-3-small) + GPT synthesis
+anthropic>=0.40,<1.0    # Claude synthesis (used when its key is present)
+python-dotenv>=1.0      # load API keys from a .env file
+
+# --- GUI (optional but recommended) ---
+streamlit>=1.30         # interactive web UI:  streamlit run app.py
+
+# --- Optional: PDF sources ---
+pypdf>=4.0              # only needed if you add .pdf files to data/sources

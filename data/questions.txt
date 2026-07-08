@@ -1,0 +1,12 @@
+# Sample question set for the resume knowledge base.
+# Lines starting with # are ignored. The last two are deliberately OUT OF SCOPE
+# to demonstrate the agent honestly saying the answer is not in the sources.
+Whose resume is this, and what is their current role?
+What is Chanakya's work experience at Waves?
+What are Chanakya's key technical skills?
+Which certifications does Chanakya hold?
+What was Chanakya's final-year research project about?
+What is Chanakya's educational background and CGPA?
+What entrepreneurial experience does Chanakya have?
+What is Chanakya's current salary?
+What is Chanakya's phone number?

@@ -1,0 +1,21 @@
+# Secrets
+.env
+
+# Runtime knowledge base (seeded from data/sources/; uploads land here)
+data/kb/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Note: samples/ IS committed so reviewers see a reference run without keys.
